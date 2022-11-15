@@ -1,3 +1,7 @@
 #cashier {
     height: 200px;
 }
+
+#show-scores {
+    display: none;
+}
